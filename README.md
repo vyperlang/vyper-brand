@@ -12,4 +12,4 @@
 
 ### Symbol
 
-![Vyper logo symbol](https://raw.githubusercontent.com/pentcle/vyper-brand/c7694faa55c5edcb4f55e424c5729bf00fe2a5ab/LOGO/SYMBOL/VYPER_SYMBOL_COLOR_RGB.svg)
+<img src="https://raw.githubusercontent.com/pentcle/vyper-brand/af28148aad5d4bed40640a566bc47dbc17f2302d/LOGO/SYMBOL/VYPER_SYMBOL_COLOR_RGB.svg" alt="symbol" height="128"/>
