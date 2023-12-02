@@ -6,7 +6,7 @@
 
 ## Logo portrait
 
-<img src="https://raw.githubusercontent.com/pentcle/vyper-brand/c7694faa55c5edcb4f55e424c5729bf00fe2a5ab/LOGO/PORTRAIT/VYPER_LOGO_PORTRAIT_COLOR_POS_RGB.svg" alt="logo portrait" height="234"/>
+<img src="https://raw.githubusercontent.com/pentcle/vyper-brand/c7694faa55c5edcb4f55e424c5729bf00fe2a5ab/LOGO/PORTRAIT/VYPER_LOGO_PORTRAIT_COLOR_POS_RGB.svg" alt="logo portrait" height="200"/>
 
 
 ## Logo symbol
