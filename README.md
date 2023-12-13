@@ -4,6 +4,8 @@
 
 [guidelines.pdf](https://raw.githubusercontent.com/pentcle/vyper-brand/main/guidelines/vyper-guidelines-0.0.1.pdf)
 
+[figma](https://www.figma.com/file/1xgpUqV9J7JzjYmNHqTmgf/vyper-toolkit?type=design&node-id=0%3A1&mode=design&t=5e6fCGU2AqI1I0EA-1)
+
 [inconsolata typeface](https://levien.com/type/myfonts/inconsolata.html)
 
 <img src="https://raw.githubusercontent.com/pentcle/vyper-brand/main/guidelines/images/1-cover.png" alt="brand toolkit"/>
