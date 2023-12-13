@@ -2,7 +2,7 @@
 
 ## Identity guidelines
 
-[Download PDF]()
+[Download PDF](https://raw.githubusercontent.com/pentcle/vyper-brand/main/guidelines/vyper-guidelines-0.0.1.pdf)
 
 <img src="https://raw.githubusercontent.com/pentcle/vyper-brand/main/guidelines/images/1-cover.png" alt="brand toolkit"/>
 <img src="https://raw.githubusercontent.com/pentcle/vyper-brand/main/guidelines/images/2-overview.png" alt="brand toolkit"/>
