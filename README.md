@@ -3,6 +3,7 @@
 ## identity guidelines
 
 [guidelines.pdf](https://raw.githubusercontent.com/pentcle/vyper-brand/main/guidelines/vyper-guidelines-0.0.1.pdf)
+
 [inconsolata typeface](https://levien.com/type/myfonts/inconsolata.html)
 
 <img src="https://raw.githubusercontent.com/pentcle/vyper-brand/main/guidelines/images/1-cover.png" alt="brand toolkit"/>
