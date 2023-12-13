@@ -1,8 +1,8 @@
-# vyper brand
+# vyper visual identity
 
-## identity guidelines
+## toolkit
 
-[guidelines.pdf](https://raw.githubusercontent.com/pentcle/vyper-brand/main/guidelines/vyper-identity-toolkit-0.0.1.pdf)
+[toolkit.pdf](https://raw.githubusercontent.com/pentcle/vyper-brand/main/toolkit/vyper-visual-identity-toolkit-0.0.1.pdf)
 
 [figma](https://www.figma.com/file/1xgpUqV9J7JzjYmNHqTmgf/vyper-toolkit?type=design&node-id=0%3A1&mode=design&t=5e6fCGU2AqI1I0EA-1)
 
