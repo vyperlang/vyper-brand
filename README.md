@@ -7,11 +7,15 @@
 [Titanoboa toolkit](#titanoboa-toolkit)
 
 
+
 ## Vyper brand family assets
+
+[logo files](https://github.com/pentcle/vyper-brand/tree/main/assets)
 
 [figma](https://www.figma.com/file/1xgpUqV9J7JzjYmNHqTmgf/vyper-toolkit?type=design&node-id=0%3A1&mode=design&t=5e6fCGU2AqI1I0EA-1)
 
 [inconsolata typeface](https://levien.com/type/myfonts/inconsolata.html)
+
 
 
 ## Vyper toolkit
