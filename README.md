@@ -1,6 +1,6 @@
-# vyper visual identity
+# Vyper visual identity
 
-## toolkit
+## Toolkit
 
 [vyper toolkit.pdf](https://raw.githubusercontent.com/pentcle/vyper-brand/main/toolkit/vyper-visual-identity-toolkit-0.0.1.pdf)
 
