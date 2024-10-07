@@ -4,10 +4,6 @@
 
 [vyper toolkit.pdf](https://raw.githubusercontent.com/pentcle/vyper-brand/main/toolkit/vyper-visual-identity-toolkit-0.0.1.pdf)
 
-[moccasin toolkit.pdf](https://raw.githubusercontent.com/pentcle/vyper-brand/main/toolkit/moccasin-visual-identity-toolkit-0.0.1.pdf)
-
-[titanoboa toolkit.pdf](https://raw.githubusercontent.com/pentcle/vyper-brand/main/toolkit/titanoboa-visual-identity-toolkit-0.0.1.pdf)
-
 [figma](https://www.figma.com/file/1xgpUqV9J7JzjYmNHqTmgf/vyper-toolkit?type=design&node-id=0%3A1&mode=design&t=5e6fCGU2AqI1I0EA-1)
 
 [inconsolata typeface](https://levien.com/type/myfonts/inconsolata.html)
@@ -34,12 +30,16 @@
 
 ## Moccasin toolkit
 
+[moccasin toolkit.pdf](https://raw.githubusercontent.com/pentcle/vyper-brand/main/toolkit/moccasin-visual-identity-toolkit-0.0.1.pdf)
+
 <img src="https://raw.githubusercontent.com/pentcle/vyper-brand/main/toolkit/images/moccasin/01-moccasin-logo-vertical.png" alt="brand toolkit"/>
 <img src="https://raw.githubusercontent.com/pentcle/vyper-brand/main/toolkit/images/moccasin/02-moccasin-logo-horizontal.png" alt="brand toolkit"/>
 <img src="https://raw.githubusercontent.com/pentcle/vyper-brand/main/toolkit/images/moccasin/03-symbol.png" alt="brand toolkit"/>
 <img src="https://raw.githubusercontent.com/pentcle/vyper-brand/main/toolkit/images/moccasin/04-color.png" alt="brand toolkit"/>
 
 ## Titanoboa toolkit
+
+[titanoboa toolkit.pdf](https://raw.githubusercontent.com/pentcle/vyper-brand/main/toolkit/titanoboa-visual-identity-toolkit-0.0.1.pdf)
 
 <img src="https://raw.githubusercontent.com/pentcle/vyper-brand/main/toolkit/images/titanoboa/01-titanoboa-logo-vertical.png" alt="brand toolkit"/>
 <img src="https://raw.githubusercontent.com/pentcle/vyper-brand/main/toolkit/images/titanoboa/02-titanoboa-logo-horizontal.png" alt="brand toolkit"/>
